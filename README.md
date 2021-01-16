@@ -26,7 +26,7 @@ ratings.csv
 ratings_small.csv
 ```
  
-More details about the contents and use of all these files is given in README.txt
+
 
 
 ### List of other dataset for future projects
