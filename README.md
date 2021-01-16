@@ -7,7 +7,7 @@ This repository contains the code for building movie recommendation system.
 
 * We will use MovieLens dataset in order to build movie recommendation sys. 
 * You need to download dataset from [this link](https://drive.google.com/drive/folders/1JnQXDCsGAb75I4PRRMDHUO0WxmXT-usv?usp=sharing)
-* Put dataset inside `input_data` folder. 
+
 
 
 ### Data description
